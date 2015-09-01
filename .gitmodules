@@ -1,0 +1,3 @@
+[submodule "ext-lib/proxygen"]
+	path = ext-lib/proxygen
+	url = https://github.com/facebook/proxygen.git
